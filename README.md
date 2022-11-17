@@ -51,6 +51,6 @@ Soluciones para los retos de https://codember.dev/
 ## Ejecutar retos
 1. Clonar el proyecto (o descargarlo)
 2. Ejecutar `cd challengeXX`[^2].
-3. Ejecutar `python challengeXX.py`[^2] en la terminal para ejecutar la solución al reto XX
+3. Ejecutar `python challengeXX.py`[^2] en la terminal para obtener la solución al reto XX
 
 [^2]: reemplace XX por el número de reto (01, 02, ...)
