@@ -17,13 +17,6 @@ Solutions for the challenges from https://codember.dev/
 | 1             | Fix Twitter!                | [solution](./challenge01/challenge01.py) |
 | 2             | Catch those cybercriminals! | [solution](./challenge02/challenge02.py) |
 
-## Secrets
-
-| Secret  | Name              | Hint              |
-| ------- | ----------------- | ----------------- |
-| 1       |  |  | 
-
-
 ## Run it
 1. Clone the project (or download it)
 2. Execute `cd challengeXX`[^*].
