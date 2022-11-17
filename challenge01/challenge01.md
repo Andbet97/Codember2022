@@ -32,12 +32,9 @@ usr:@itziar age:19 loc:isle psw:aaa fll:222
 eme:itzi@gmail.com
 ```
 
-El primer usuario SÍ es válido. Tiene todos los campos.
-
-El segundo usuario SÍ es válido. Tiene todos los campos.
-
-El tercer usuario NO es válido. Le falta el campo `age`.
-
+El primer usuario SÍ es válido. Tiene todos los campos.  
+El segundo usuario SÍ es válido. Tiene todos los campos.  
+El tercer usuario NO es válido. Le falta el campo `age`.  
 El cuarto usuario SÍ es válido. Tiene todos los campos.
 
 Ahora que ya sabes esto, usa este input para detectar los usuarios incorrectos: https://codember.dev/users.txt
