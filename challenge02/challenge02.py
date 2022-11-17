@@ -11,7 +11,7 @@ def solve():
         index = 0
         while index < len(encrypted_word):
             # Only minus ASCII (97-122)
-            # If ASCII start win 9 (97-99) count 2, else (100-122), count 3
+            # If ASCII start with 9 (97-99) count 2, else (100-122), count 3
             len_ascii = 2 if encrypted_word[index] == '9' else 3
             word += chr(int(encrypted_word[index:index+len_ascii]))
             index += len_ascii
