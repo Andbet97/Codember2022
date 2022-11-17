@@ -10,21 +10,21 @@
 Solutions for the challenges from https://codember.dev/
 
 
-## Challenges ⛰️
+## Challenges
 
 | Challenge     | Name                        |                                    |
 | ------------- | --------------------------- | ---------------------------------- |
 | 1             | Fix Twitter!                | [solution]()                       |
 | 2             | Catch those cybercriminals! | [solution]()                       |
 
-## Secrets 🤫
+## Secrets
 
 | Secret  | Name              | Hint              |
 | ------- | ----------------- | ----------------- |
 | 1       |  |  | 
 
 
-## Run it 🏃💨
+## Run it
 1. Clone the project (or download it)
-2. Execute `python ` in the terminal to run the solution for the challenge 01
-3. Execute `python ` in the terminal to run the solution for the challenge 02
+2. Execute `python x` in the terminal to run the solution for the challenge 01
+3. Execute `python x` in the terminal to run the solution for the challenge 02
