@@ -26,7 +26,7 @@ Solutions for the challenges from https://codember.dev/
 
 ## Run it
 1. Clone the project (or download it)
-2. Execute `cd challengeXX`^*^.
-3. Execute `python challengeXX.py`^*^ in the terminal to run the solution for the challenge 01
+2. Execute `cd challengeXX`[^*].
+3. Execute `python challengeXX.py`[^*] in the terminal to run the solution for the challenge 01
 
-superindice^* replace XX for number of challenge (01, 02, ...)
+[^*]: replace XX for number of challenge (01, 02, ...)
