@@ -33,19 +33,22 @@ eme:itzi@gmail.com
 ```
 
 El primer usuario SÍ es válido. Tiene todos los campos.
+
 El segundo usuario SÍ es válido. Tiene todos los campos.
+
 El tercer usuario NO es válido. Le falta el campo `age`.
-El cuarto usuario SÍ es válido. Tiene todos los campos..
+
+El cuarto usuario SÍ es válido. Tiene todos los campos.
 
 Ahora que ya sabes esto, usa este input para detectar los usuarios incorrectos: https://codember.dev/users.txt
 
 # Pistas
 
-    Los datos pueden estar en cualquier orden.
-    Los datos pueden estar en la misma línea o separados por líneas.
-    Los usuarios se separan por un salto de línea en blanco.
-    Los usuarios pueden estar repetidos, pero no importa, siguen siendo válidos.
-    Pueden venir datos que no son necesarios para el usuario pero eso no lo hacen inválidos.
+- Los datos pueden estar en cualquier orden.
+- Los datos pueden estar en la misma línea o separados por líneas.
+- Los usuarios se separan por un salto de línea en blanco.
+- Los usuarios pueden estar repetidos, pero no importa, siguen siendo válidos.
+- Pueden venir datos que no son necesarios para el usuario pero eso no lo hacen inválidos.
 
 # Cómo enviar la solución
 
