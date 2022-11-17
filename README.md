@@ -29,4 +29,4 @@ Solutions for the challenges from https://codember.dev/
 2. Execute `cd challengeXX`^*^.
 3. Execute `python challengeXX.py`^*^ in the terminal to run the solution for the challenge 01
 
-^*^replace XX for number of challenge (01, 02, ...)
+superindice^*^replace XX for number of challenge (01, 02, ...)
