@@ -24,6 +24,8 @@ Solutions for the challenges from https://codember.dev/
 2. Execute `cd challengeXX`[^1].
 3. Execute `python challengeXX.py`[^1] in the terminal to run the solution for the challenge XX
 
+[^1]: replace XX for number of challenge (01, 02, ...)
+
 
 # codember en Python
 ```
@@ -51,5 +53,4 @@ Soluciones para los retos de https://codember.dev/
 2. Ejecutar `cd challengeXX`[^2].
 3. Ejecutar `python challengeXX.py`[^2] en la terminal para ejecutar la solución al reto XX
 
-[^1]: replace XX for number of challenge (01, 02, ...)
 [^2]: reemplace XX por el número de reto (01, 02, ...)
