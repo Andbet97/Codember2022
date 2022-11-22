@@ -25,6 +25,43 @@ Solutions for the challenges from https://codember.dev/
 2. Execute `cd challengeXX`[^1].
 3. Execute `python challengeXX.py`[^1] in the terminal to run the solution for the challenge XX
 
+## Secrets
+
+<details>
+    <summary>Corrupt image</summary>
+    <code> $ say elonmusk </code>
+</details>
+
+<details>
+    <summary>Cowsay</summary>
+    <code> $ ping midu.dev </code>
+</details>
+
+<details>
+    <summary>Confetti</summary>
+    <code> $ confetti </code>
+</details>
+
+<details>
+    <summary>Tetris</summary>
+    <code> $ play tetris </code>
+</details>
+
+<details>
+    <summary>Google "roll" easter egg.</summary>
+    <code> $ do a barrel roll </code>
+</details>
+
+<details>
+    <summary>Mail</summary>
+    <code> $ submit t8vjh832948fcnal </code>
+</details>
+
+<details>
+    <summary>Konami code.</summary>
+    <p> Press up, up, down, down, left, right, left, right, B, A </p>
+</details>
+
 [^1]: replace XX for number of challenge (01, 02, ...)
 
 
@@ -54,5 +91,42 @@ Soluciones para los retos de https://codember.dev/
 1. Clonar el proyecto (o descargarlo)
 2. Ejecutar `cd challengeXX`[^2].
 3. Ejecutar `python challengeXX.py`[^2] en la terminal para obtener la solución al reto XX
+
+## Secretos
+
+<details>
+    <summary>Imagen corrupta</summary>
+    <code> $ say elonmusk </code>
+</details>
+
+<details>
+    <summary>La vaca dice</summary>
+    <code> $ ping midu.dev </code>
+</details>
+
+<details>
+    <summary>Confetti</summary>
+    <code> $ confetti </code>
+</details>
+
+<details>
+    <summary>Tetris</summary>
+    <code> $ play tetris </code>
+</details>
+
+<details>
+    <summary>Google "roll" easter egg.</summary>
+    <code> $ do a barrel roll </code>
+</details>
+
+<details>
+    <summary>Correo electrónico</summary>
+    <code> $ submit t8vjh832948fcnal </code>
+</details>
+
+<details>
+    <summary>Truco de Konami contra.</summary>
+    <p> Press up, up, down, down, left, right, left, right, B, A </p>
+</details>
 
 [^2]: reemplace XX por el número de reto (01, 02, ...)
