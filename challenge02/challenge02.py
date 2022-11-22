@@ -8,7 +8,7 @@ def solve(encrypted_code):
         while index < len(encrypted_word):
             # Only minus ASCII (97-122)
             # If ASCII start with 9 (97-99) count 2, else (100-122), count 3
-            len_ascii = 2 if encrypted_word[index] == '9' else 3
+            len_ascii = 3 if encrypted_word[index] == '1' else 2
             word += chr(int(encrypted_word[index:index+len_ascii]))
             index += len_ascii
         prayer += "{} ".format(word)
@@ -60,3 +60,10 @@ if __name__=="__main__":
         with open("encrypted.txt", "r") as content:
             encrypted_code = content.read()
         print('Solution: {}'.format(solve(encrypted_code[:-1])))
+    
+        # Secret email
+        print('\nSecret Mail.')
+        subject = "115111109111115 108101103105111110"
+        message = "83101 113117105101110 101114101115 84101 9911111011112299111 84117 110111 109101 9911111011199101115 97 109105 84101 101115116111121 1119811510111411897110100111 84101 101115116111121 115105103117105101110100111 81117105101114101115 10611710397114 7411710110397 99111110109105103111 8697108101 8697109111115 97 10611710397114 691061019911711697 101115116101 9911110997110100111 101110 10897 11610111410910511097108 11511798109105116 116561181061045651505752561029911097108"
+
+        print('Subject: {}\nMessage: {}'.format(solve(subject), solve(message)))
