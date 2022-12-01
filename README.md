@@ -14,12 +14,13 @@ Solutions for the challenges from https://codember.dev/
 
 ## Challenges
 
-| Challenge     | Name                        |                                          |
-| ------------- | --------------------------- | ---------------------------------------- |
-| 1             | Fix Twitter!                | [solution](./challenge01/challenge01.py) |
-| 2             | Catch those cybercriminals! | [solution](./challenge02/challenge02.py) |
-| 3             | Zebra of colors             | [solution](./challenge03/challenge03.py) |
-| 4             | Dude, I lost my password    | [solution](./challenge04/challenge04.py) |
+| Challenge     | Name                                      |                                          |
+| ------------- | ----------------------------------------- | ---------------------------------------- |
+| 1             | Fix Twitter!                              | [solution](./challenge01/challenge01.py) |
+| 2             | Catch those cybercriminals!               | [solution](./challenge02/challenge02.py) |
+| 3             | Zebra of colors                           | [solution](./challenge03/challenge03.py) |
+| 4             | Dude, I lost my password                  | [solution](./challenge04/challenge04.py) |
+| 5             | Battle Royale of libraries and frameworks | [solution](./challenge05/challenge05.py) |
 
 ## Run it
 1. Clone the project (or download it)
@@ -63,6 +64,11 @@ Solutions for the challenges from https://codember.dev/
     <p> Press up, up, down, down, left, right, left, right, B, A </p>
 </details>
 
+<details>
+    <summary>Npm</summary>
+    <code> $ submit bug </code>
+</details>
+
 [^1]: replace XX for number of challenge (01, 02, ...)
 
 
@@ -82,12 +88,13 @@ Soluciones para los retos de https://codember.dev/
 
 ## Retos
 
-| Reto          | Nombre                             |                                          |
-| ------------- | ----------------------------------- | ---------------------------------------- |
-| 1             | ¡Arregla Twitter!                   | [solución](./challenge01/challenge01.py) |
-| 2             | ¡Atrapa a esos ciber criminales!    | [solución](./challenge02/challenge02.py) |
-| 3             | La zebra de colores                 | [solución](./challenge03/challenge03.py) |
-| 4             | Encuentra la contraseña de tu amigo | [solución](./challenge04/challenge04.py) |
+| Reto          | Nombre                                    |                                          |
+| ------------- | ----------------------------------------- | ---------------------------------------- |
+| 1             | ¡Arregla Twitter!                         | [solución](./challenge01/challenge01.py) |
+| 2             | ¡Atrapa a esos ciber criminales!          | [solución](./challenge02/challenge02.py) |
+| 3             | La zebra de colores                       | [solución](./challenge03/challenge03.py) |
+| 4             | Encuentra la contraseña de tu amigo       | [solución](./challenge04/challenge04.py) |
+| 5             | Battle Royale de frameworks y bibliotecas | [solution](./challenge05/challenge05.py) |
 
 ## Ejecutar retos
 1. Clonar el proyecto (o descargarlo)
@@ -129,6 +136,11 @@ Soluciones para los retos de https://codember.dev/
 <details>
     <summary>Truco de Konami contra.</summary>
     <p> Press up, up, down, down, left, right, left, right, B, A </p>
+</details>
+
+<details>
+    <summary>Npm</summary>
+    <code> $ submit bug </code>
 </details>
 
 [^2]: reemplace XX por el número de reto (01, 02, ...)
