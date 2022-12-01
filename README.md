@@ -71,6 +71,7 @@ Solutions for the challenges from https://codember.dev/
 
 [^1]: replace XX for number of challenge (01, 02, ...)
 
+***
 
 # codember en Python
 ```
