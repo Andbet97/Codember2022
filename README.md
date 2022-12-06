@@ -69,6 +69,11 @@ Solutions for the challenges from https://codember.dev/
     <code> $ submit bug </code>
 </details>
 
+<details>
+    <summary>New command</summary>
+    <code> $ midu </code>
+</details>
+
 [^1]: replace XX for number of challenge (01, 02, ...)
 
 ***
@@ -142,6 +147,11 @@ Soluciones para los retos de https://codember.dev/
 <details>
     <summary>Npm</summary>
     <code> $ submit bug </code>
+</details>
+
+<details>
+    <summary>Nuevo comando</summary>
+    <code> $ midu </code>
 </details>
 
 [^2]: reemplace XX por el número de reto (01, 02, ...)
